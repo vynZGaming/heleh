@@ -1,0 +1,9 @@
+_*XyZ BOT Information*_
+
+Status BOT : %state
+
+New Update :
+1. Fix botclear all cron-job
+2. New brand name variables
+
+Any bugs please report to Issue
